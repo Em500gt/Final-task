@@ -1,0 +1,15 @@
+D:\GeekBrains\1 семестр\Final task\code\bin\Debug\net6.0\code.exe
+D:\GeekBrains\1 семестр\Final task\code\bin\Debug\net6.0\code.deps.json
+D:\GeekBrains\1 семестр\Final task\code\bin\Debug\net6.0\code.runtimeconfig.json
+D:\GeekBrains\1 семестр\Final task\code\bin\Debug\net6.0\code.dll
+D:\GeekBrains\1 семестр\Final task\code\bin\Debug\net6.0\code.pdb
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\code.csproj.AssemblyReference.cache
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\code.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\code.AssemblyInfoInputs.cache
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\code.AssemblyInfo.cs
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\code.csproj.CoreCompileInputs.cache
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\code.dll
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\refint\code.dll
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\code.pdb
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\code.genruntimeconfig.cache
+D:\GeekBrains\1 семестр\Final task\code\obj\Debug\net6.0\ref\code.dll
